@@ -1,0 +1,11 @@
+.scroll-list > * {
+  margin-top: 25rem;
+}
+
+.img-placeholder {
+  content: 'Placeholder!';
+  width: 25rem;
+  height: 18.75rem;
+  border: 1px solid black;
+  background-color: silver;
+}
